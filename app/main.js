@@ -25,3 +25,7 @@ var people_two = [
 
 //Jasen
   // removed styles.css
+
+
+// You should create a new HTML file. Link to it from index.html
+  // created about.html and linked in the index.html
