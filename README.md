@@ -21,8 +21,11 @@ Slack your partner. You should both edit an HTML file. Add a paragraph about som
   -added to about.html(Jasen)
 
 Slack your partner. You should both create a new HTML file. Link to it from index.html
-  -added campuses.html 
+  -added campuses.html
   -added cohorts.html
 
 You should create a new directory. Move at least one file into that directory.
   -created styles moved styles.css to it
+
+Slack your partner. You should both edit five CSS properties.
+  -added classes to styles.css  
