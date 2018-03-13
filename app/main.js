@@ -26,6 +26,8 @@ var people_two = [
 //Jasen
   // removed styles.css
 
-
 // You should create a new HTML file. Link to it from index.html
   // created about.html and linked in the index.
+
+// Slack your partner. You should both edit an HTML file. Add a paragraph about something you like.
+  // added to index.html(jordan)
