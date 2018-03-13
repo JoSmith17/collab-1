@@ -28,4 +28,4 @@ var people_two = [
 
 
 // You should create a new HTML file. Link to it from index.html
-  // created about.html and linked in the index.html
+  // created about.html and linked in the index.
