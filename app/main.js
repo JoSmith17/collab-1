@@ -22,3 +22,6 @@ var people_two = [
 ]
 //You should remove a file other than index.html.
   //removed about.html
+
+//Jasen
+  // removed styles.css
