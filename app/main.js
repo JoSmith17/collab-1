@@ -10,3 +10,6 @@ var people_one = [
     age: "7"
   }
 ]
+
+//You should remove a file other than index.html.
+  //removed about.html
