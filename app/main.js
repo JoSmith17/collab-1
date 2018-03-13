@@ -31,3 +31,5 @@ var people_two = [
 
 // Slack your partner. You should both edit an HTML file. Add a paragraph about something you like.
   // added to index.html(jordan)
+
+  // added to about.html
