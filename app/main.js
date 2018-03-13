@@ -11,5 +11,14 @@ var people_one = [
   }
 ]
 
+var people_two = [
+  {
+    name: "Ashley",
+    age: "25"
+  }, {
+    name: "Mary",
+    age: "13"
+  }
+]
 //You should remove a file other than index.html.
   //removed about.html
